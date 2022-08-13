@@ -1,0 +1,1 @@
+package com.sina.parkingManagement.model;public enum VehicleType {    SAVARI,TEJARI}

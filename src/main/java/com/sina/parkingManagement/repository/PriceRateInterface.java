@@ -1,0 +1,1 @@
+package com.sina.parkingManagement.repository;import com.sina.parkingManagement.model.PriceRate;import org.springframework.data.repository.PagingAndSortingRepository;public interface PriceRateInterface extends PagingAndSortingRepository<PriceRate, Long> {}

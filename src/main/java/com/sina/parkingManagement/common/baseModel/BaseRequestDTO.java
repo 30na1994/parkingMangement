@@ -1,0 +1,1 @@
+package com.sina.parkingManagement.common.baseModel;import io.swagger.annotations.ApiModelProperty;import lombok.Data;@Datapublic class BaseRequestDTO {    @ApiModelProperty(hidden = true)    private Long id;}

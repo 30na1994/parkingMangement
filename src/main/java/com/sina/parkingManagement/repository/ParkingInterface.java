@@ -1,0 +1,1 @@
+package com.sina.parkingManagement.repository;import com.sina.parkingManagement.model.Parking;import org.springframework.data.repository.PagingAndSortingRepository;public interface ParkingInterface extends PagingAndSortingRepository<Parking, Long> {}
